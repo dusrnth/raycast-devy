@@ -1,3 +1,2 @@
-# Devy
-
-Dev Tools
+# raycast-devy
+[side-project] Devy, Raycast Extension
