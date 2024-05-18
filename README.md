@@ -19,3 +19,12 @@ MacGyver tools - Devy (Raycast Extension)
 - 빠르게 사용하는 건 Raycast 를 활용하자
 - 이미 잘 만들어진 라이브러리를 잘 찾아서 커맨드를 만들어보자
 - 빠르게 유틸 하나 추가하여 효용성부터 확인
+
+
+## 기능
+
+### 랜덤 UUID 생성
+
+![CleanShot 2024-05-15 at 22 10 31](https://github.com/dusrnth/raycast-devy/assets/59721293/0ac8dd6d-729e-40f3-9192-b6e5f5348541)
+
+### ...
