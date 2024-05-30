@@ -29,3 +29,4 @@ MacGyver tools - Devy (Raycast Extension)
 
 ### 문자열 트림
 
+![CleanShot 2024-05-30 at 14 02 37@2x](https://github.com/dusrnth/raycast-devy/assets/59721293/288e55ce-8710-4aa4-bf02-cea74b0796f0)
