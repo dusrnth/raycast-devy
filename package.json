@@ -15,6 +15,12 @@
       "title": "Generate random UUID",
       "description": "",
       "mode": "view"
+    },
+    {
+      "name": "trim-string",
+      "title": "Trim string",
+      "description": "",
+      "mode": "view"
     }
   ],
   "dependencies": {
